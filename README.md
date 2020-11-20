@@ -1,2 +1,2 @@
 # BatteryCartLEDs
-This is the Arduino code for the battery cart. 
+This is the Arduino code for the battery cart LEDs.
